@@ -6,12 +6,12 @@ Executable: ./exec [input file] [output file]
 
 Program takes commands and efficiently performs tasks using BST
 
-register [userid] [lastname] [nickname]
-update <userid> <nickname>
-buy <userid> <item> <price>
-history <userid>
-report <howmany>
-surprise <howmany> <item> <price>
+register [userid] [lastname] [nickname]   
+update [userid] [nickname]   
+buy [userid] [item] [price]   
+history [userid]   
+report [howmany]   
+surprise [howmany] [item] [price]   
 
 1. Register: New users may register for the system, providing a unique user id, a last name, and a nickname
 2. Update: Users may change their nickname at any time
