@@ -6,7 +6,7 @@ Executable: ./exec [input file] [output file]
 
 Program takes commands and efficiently performs tasks using BST
 
-register <userid> <lastname> <nickname>
+register [userid] [lastname] [nickname]
 update <userid> <nickname>
 buy <userid> <item> <price>
 history <userid>
